@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22.857" viewBox="0 0 20 22.857">
+  <g id="stopwatch_3_" data-name="stopwatch (3)" transform="translate(-49.716 -33.692)">
+    <path id="Path_17094" data-name="Path 17094" d="M20.492,23.708,17.4,19.66a.715.715,0,0,1-.147-.434V13.75h1.429v5.234l2.949,3.855Z" transform="translate(41.752 27.323)" fill="#8f3b76"/>
+    <path id="Path_17095" data-name="Path 17095" d="M17.5,29a10,10,0,1,1,10-10A10.011,10.011,0,0,1,17.5,29Zm0-18.571A8.571,8.571,0,1,0,26.071,19,8.581,8.581,0,0,0,17.5,10.429Z" transform="translate(42.216 27.549)" fill="#8f3b76"/>
+    <path id="Path_17096" data-name="Path 17096" d="M14.5,6h6.667V7.429H14.5Z" transform="translate(41.882 27.692)" fill="#8f3b76"/>
+    <path id="Path_17097" data-name="Path 17097" d="M17.25,6.75h1.429V9.607H17.25Z" transform="translate(41.752 27.656)" fill="#8f3b76"/>
+    <path id="Path_17098" data-name="Path 17098" d="M0,0H3.178V1.429H0Z" transform="translate(65.768 39.484) rotate(-45)" fill="#8f3b76"/>
+  </g>
+</svg>

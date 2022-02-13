@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.552" height="25.217" viewBox="0 0 13.552 25.217">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_16814" data-name="Path 16814" d="M12.134,9.572a2.421,2.421,0,1,0,2.419-2.421,2.419,2.419,0,0,0-2.419,2.421" transform="translate(-12.134 -7.151)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-4.6" y1="7.65" x2="-4.221" y2="7.65" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8f3b76"/>
+      <stop offset="1" stop-color="#8f3b76"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_16815" data-name="Path 16815" d="M13.849,10.947a26.756,26.756,0,0,0-3.566,4.21,1.267,1.267,0,0,0,2.105,1.409A21.942,21.942,0,0,1,13.8,14.7c-.02,1.316.046,3.689.079,4.753a2.054,2.054,0,0,1-.233,1.02,40.4,40.4,0,0,0-2.99,7.734,1.332,1.332,0,0,0,.9,1.652,1.371,1.371,0,0,0,.475.051,1.328,1.328,0,0,0,1.175-.951,38,38,0,0,1,2.718-7.095c.059,0,.117,0,.18,0q1.129,3.364,2.259,6.737a1.34,1.34,0,0,0,2.538-.853q-1.236-3.681-2.467-7.361a6.545,6.545,0,0,1-.182-.874c-.134-1.51-.182-3.019-.169-4.529a20.18,20.18,0,0,0,3.86,2.894c1.419.822,2.393-1.536.993-2.349a16.8,16.8,0,0,1-5.007-4.548,2.429,2.429,0,0,0-2.006-.892,2.73,2.73,0,0,0-2.079.857" transform="translate(-10.069 -10.09)" fill="rgb(143,59,118)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-1.267" y1="1.572" x2="-1.14" y2="1.572" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_3906" data-name="Group 3906" transform="translate(-65.964 -380.679)">
+    <g id="Group_3652" data-name="Group 3652" transform="translate(69.753 380.679)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_2190" data-name="Rectangle 2190" width="4.841" height="4.843" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_3653" data-name="Group 3653" transform="translate(65.964 386.072)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_2191" data-name="Rectangle 2191" width="14.445" height="20.147" transform="translate(-0.173 0)" fill="rgb(143,59,118)"/>
+    </g>
+  </g>
+</svg>
